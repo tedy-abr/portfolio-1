@@ -9,7 +9,7 @@ My first portfolio was built using plain HTML, CSS, and vanilla JavaScript. For 
 ## Live Demo
 
 - **Live Site:** (https://portfolio-tedyabrs-projects.vercel.app/)
-- - **GitHub Repository:** (https://github.com/tedy-abr/portfolio-1)
+- **GitHub Repository:** (https://github.com/tedy-abr/portfolio-1)
 
 ## What I Built
 
