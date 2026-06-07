@@ -88,26 +88,6 @@ function ProjectArticle() {
                 <p>{project.fullDescription}</p>
               </div>
             </section>
-
-            <section>
-              <h2 className="text-3xl font-heading font-bold text-zinc-100 mb-6 flex items-center gap-4">
-                <span className="w-8 h-1 bg-violet-500 rounded-full"></span>
-                Challenges Faced
-              </h2>
-              <div className="prose prose-invert prose-lg max-w-none text-zinc-400 leading-relaxed">
-                <p>{project.challenges}</p>
-              </div>
-            </section>
-
-            <section>
-              <h2 className="text-3xl font-heading font-bold text-zinc-100 mb-6 flex items-center gap-4">
-                <span className="w-8 h-1 bg-emerald-500 rounded-full"></span>
-                What I Learned
-              </h2>
-              <div className="prose prose-invert prose-lg max-w-none text-zinc-400 leading-relaxed">
-                <p>{project.whatILearned}</p>
-              </div>
-            </section>
           </div>
 
           {/* Right Column */}
