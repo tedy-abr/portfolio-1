@@ -8,6 +8,9 @@ My first portfolio was built using plain HTML, CSS, and vanilla JavaScript. For 
 
 ## Live Demo
 
+- **Live Site:** (https://portfolio-tedyabrs-projects.vercel.app/)
+- - **GitHub Repository:** (https://github.com/tedy-abr/portfolio-1)
+
 ## What I Built
 
 This is a modern, component-based React application built to showcase the three main projects from my studies.
@@ -69,6 +72,6 @@ If you want to download this code and run it yourself, it's pretty easy:
 
 5. **View it:** Open your browser to `http://localhost:5175`!
 
-## 👋 About Me
+## About Me
 
 I'm a front-end student currently finishing up my studies at Noroff. I love building responsive, accessible, and good-looking user interfaces. Building this portfolio was a great way to put everything I've learned about React and Tailwind into practice!
